@@ -22,5 +22,5 @@ java sistematizacao
 Ao executar o programa, ele solicitará que você insira informações sobre um funcionário, como nome, alergias, problemas médicos, telefone e email.
 Depois de inserir as informações, ele exibirá os detalhes do funcionário no console.
 
-Notas Adicionais
+<h4>Notas Adicionais</h4>
 Este projeto é um exemplo simples de como utilizar conceitos de Programação Orientada a Objetos (POO) em Java para gerenciar informações de funcionários. Não há persistência de dados neste exemplo; os dados são perdidos quando o programa é encerrado.
