@@ -1,4 +1,4 @@
-<h1>Sistema de Gerenciamento de Funcionários</h1>
+<h1>Sistema de Gerenciamento de Funcionários</h1> :office:
 Este é um sistema simples de gerenciamento de funcionários implementado em Java. 
 Ele permite a criação de objetos Funcionario com informações como nome, alergias, problemas médicos, telefone e email, e exibe essas informações no console.
 
