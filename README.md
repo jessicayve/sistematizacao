@@ -2,7 +2,7 @@
 Este é um sistema simples de gerenciamento de funcionários implementado em Java. 
 Ele permite a criação de objetos Funcionario com informações como nome, alergias, problemas médicos, telefone e email, e exibe essas informações no console.
 
-Como Usar
+<h4>Como Usar</h4>
 Pré-requisitos
 Java Development Kit (JDK) instalado
 Ambiente de desenvolvimento Java (Eclipse, IntelliJ IDEA, etc.) ou compilador Java via linha de comando
