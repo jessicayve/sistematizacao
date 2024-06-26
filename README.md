@@ -2,7 +2,7 @@
 Este é um sistema simples de gerenciamento de funcionários implementado em Java. 
 Ele permite a criação de objetos Funcionario com informações como nome, alergias, problemas médicos, telefone e email, e exibe essas informações no console.
 
-<h4>Como Usar</h4>
+<h4>Como Usar:</h4>
 Pré-requisitos
 Java Development Kit (JDK) instalado
 Ambiente de desenvolvimento Java (Eclipse, IntelliJ IDEA, etc.) ou compilador Java via linha de comando
@@ -10,15 +10,13 @@ Executando o Projeto
 
 Clone o repositório:
 git clone https://github.com/seu-usuario/sistematizacao.git
+
 Compile os arquivos:
 
-bash
 Copiar código
-cd sistematizacao/
 javac sistematizacao.java
-Execute o programa:
 
-Copiar código
+<u>Execute o programa:</u>
 java sistematizacao
 Funcionalidades
 Ao executar o programa, ele solicitará que você insira informações sobre um funcionário, como nome, alergias, problemas médicos, telefone e email.
