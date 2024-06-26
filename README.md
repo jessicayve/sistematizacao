@@ -24,3 +24,5 @@ Depois de inserir as informações, ele exibirá os detalhes do funcionário no 
 
 <h4>Notas Adicionais</h4>
 Este projeto é um exemplo simples de como utilizar conceitos de Programação Orientada a Objetos (POO) em Java para gerenciar informações de funcionários. Não há persistência de dados neste exemplo; os dados são perdidos quando o programa é encerrado.
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
