@@ -10,7 +10,7 @@ Ambiente de desenvolvimento Java (Eclipse, IntelliJ IDEA, etc.) ou compilador Ja
 Executando o Projeto
 
 <h4>Clone o repositório:</h4>
-git clone https://github.com/seu-usuario/sistematizacao.git
+git clone https://github.com/jessicayve/sistematizacao.git
 
 <h4>Compile os arquivos:</h4>
 
